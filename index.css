@@ -33,6 +33,7 @@ body {
 }
 
 .toy-avatar {
+  
   justify-self: center;
   height: 12rem;
   width: auto;
@@ -96,4 +97,12 @@ button:hover {
   font-size: 18px;
   font-family: monospace;
   margin: 3px;
+}
+#cards{
+align-items: center;
+}
+
+.card{
+  align-items: center;
+  padding: 50px 70px;
 }
